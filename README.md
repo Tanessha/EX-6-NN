@@ -74,8 +74,8 @@ print(classification_rep)
 ```
 ### Output:
 
-![alt text](<Screenshot 2024-10-24 094425.png>)
-![alt text](<Screenshot 2024-10-24 094431.png>)
+![6nn](https://github.com/deepikasrinivasans/EX-6-NN/assets/119393935/4daa5ba3-b6b1-4c77-b979-1a055cbad51b)
+
 
 ### Results:
 Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
